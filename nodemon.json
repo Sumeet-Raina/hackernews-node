@@ -1,0 +1,8 @@
+{
+  "inspect": true,
+  "verbose": true,
+  "watch": ["src/"],
+  "ext": "js, graphql, json",
+  "ignore": ["public"],
+  "exec": "node src/index.js"
+}
